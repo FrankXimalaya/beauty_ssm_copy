@@ -53,6 +53,8 @@ public class GoodsDaoTest {
 
 		int a = 0;
 		System.out.println(a);
+		int b = 0;
+		System.out.println(b);
 		System.out.println("hello man");
 	}
 
