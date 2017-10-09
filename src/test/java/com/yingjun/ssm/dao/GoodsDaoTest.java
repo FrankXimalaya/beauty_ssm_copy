@@ -46,4 +46,8 @@ public class GoodsDaoTest {
 		System.out.println("testBugWithProcedure result:"+map.get("result"));
 	}
 
+	public static void main(String[] args) {
+
+	}
+
 }
