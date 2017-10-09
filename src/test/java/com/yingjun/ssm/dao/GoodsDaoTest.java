@@ -50,6 +50,7 @@ public class GoodsDaoTest {
 
 		int a = 0;
 		System.out.println(a);
+		System.out.println("测试合并");
 		System.out.println("hello man");
 	}
 
